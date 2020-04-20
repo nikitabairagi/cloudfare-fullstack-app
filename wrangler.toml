@@ -1,0 +1,6 @@
+name = "assignment"
+type = "javascript"
+account_id = "e50773b88f4c2f23c01eb60982a247f0"
+workers_dev = true
+route = ""
+zone_id = ""
